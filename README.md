@@ -1,6 +1,5 @@
 ### Hello~! 👋
 
-`java`
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sange17)](https://solved.ac/sange17)
 
 
