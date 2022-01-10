@@ -1,6 +1,6 @@
 ### Hello~! 👋
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a></br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sange17)](https://solved.ac/sange17)
 
 
