@@ -1,5 +1,6 @@
 ### Hello~! 👋
 
+    <img src="https://img.shields.io/badge/#007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sange17)](https://solved.ac/sange17)
 
 
