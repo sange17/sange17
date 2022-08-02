@@ -30,7 +30,7 @@
 - 시각장애인을 위한 YOLOv4 과자 판별 앱
 - Payday. 알바 계산기 & 알바 기록 앱
 - Odoy(One day one year). 일상 시간 관리 웹
-- 장보고. 제품 구매 중복 방지 앱)
+- 장보고. 제품 구매 중복 방지 앱
 
 ## Interest
 - Language
