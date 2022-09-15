@@ -48,7 +48,7 @@
   - Spring
 
 - Problem Solving
-  - [Baaekjoon](https://www.acmicpc.net/user/sange17)
+  - [Baekjoon](https://www.acmicpc.net/user/sange17)
 
 ## Contact
 - [Github Repo Issue](https://github.com/sange17/sange17/issues)
