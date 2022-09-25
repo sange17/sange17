@@ -1,4 +1,4 @@
-# 🤩 Hello, I'm TackSang
+# 🤩 Hello, I'm TackSang. There are so many things I want to make!
 
 
 💻 Tech Stack</br>
