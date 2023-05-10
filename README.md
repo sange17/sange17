@@ -51,13 +51,14 @@ Things I learned</br>
 
 ## Interest
 - Language
-  - Python
-  - Java
   - C#
-
+  - Java
+  - Python
+ 
 - Frameworks
-  - Django
+  - .Net
   - Spring
+  - Django
 
 - Problem Solving
   - [Baekjoon](https://www.acmicpc.net/user/sange17)
