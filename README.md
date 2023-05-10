@@ -8,7 +8,7 @@ Main Language</br>
 <img src="https://img.shields.io/badge/Csharp-239120?style=flat-square&logo=Csharp&logoColor=white"/></a>
 
 Sub Language</br>
-<img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
 
 Things I learned</br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
