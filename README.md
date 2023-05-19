@@ -67,5 +67,3 @@ Things I learned</br>
 - [Github Repo Issue](https://github.com/sange17/sange17/issues)
 - [Email](mailto:sange17@naver.com)
 
-## Others
-![Github Graph](https://activity-graph.herokuapp.com/graph?username=sange17&area=false&theme=xcode&hide_border=true)
