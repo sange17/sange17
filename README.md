@@ -27,7 +27,7 @@ Things I learned</br>
 [![Solve.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sange17)](https://solved.ac/sange17)
 
 ## School
-- (2017 ~ ) 건양대학교 의료IT공학전공
+- (2017 ~ 2023) 건양대학교 의료IT공학전공
 
 ## Activity
 - (2022.05 ~ 2022.11) 아산시 4차산업인재 장학생 인공지능(with 드론) 분야 연구
