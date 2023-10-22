@@ -6,13 +6,13 @@
 
 Main Language</br>
 <img src="https://img.shields.io/badge/Csharp-239120?style=flat-square&logo=Csharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.Net&logoColor=white"/></a>
 
 Sub Language</br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
 
 Things I learned</br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.Net&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
